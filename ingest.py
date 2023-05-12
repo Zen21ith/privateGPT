@@ -5,6 +5,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.embeddings import LlamaCppEmbeddings
 from constants import CHROMA_SETTINGS
+from Dot.Net Repositories [delta creae vs.code]
 
 load_dotenv()
 
